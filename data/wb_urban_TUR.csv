@@ -1,0 +1,19 @@
+# World Bank WDI, Turkiye -- Urban population (% of total), SP.URB.TOTL.IN.ZS
+# Cached fallback used only when the live World Bank API is unreachable.
+# Refresh: https://api.worldbank.org/v2/country/TUR/indicator/SP.URB.TOTL.IN.ZS?format=json
+year,urban_pct
+2000,64.74
+2002,65.68
+2004,66.62
+2006,67.57
+2008,68.51
+2010,70.83
+2012,72.13
+2014,73.40
+2016,74.62
+2018,75.69
+2020,76.10
+2021,76.60
+2022,77.04
+2023,77.46
+2024,77.89

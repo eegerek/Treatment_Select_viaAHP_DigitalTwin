@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "greywater-dtahp"
+version = "1.0.0"
+description = "Digital-twin AHP for greywater treatment technology selection"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Replace with author name(s)", email = "you@example.edu" }]
+dependencies = ["numpy>=1.22", "scipy>=1.8", "matplotlib>=3.5", "requests>=2.27"]
+
+[project.urls]
+Repository = "https://github.com/<your-account>/greywater-dtahp"
+
+[tool.setuptools.packages.find]
+include = ["dtahp*"]

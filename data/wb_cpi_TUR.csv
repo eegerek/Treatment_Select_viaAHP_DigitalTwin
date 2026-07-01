@@ -1,0 +1,29 @@
+# World Bank WDI, Turkiye -- Inflation, consumer prices (annual %), FP.CPI.TOTL.ZG
+# Cached fallback used only when the live World Bank API is unreachable.
+# Refresh: https://api.worldbank.org/v2/country/TUR/indicator/FP.CPI.TOTL.ZG?format=json
+year,inflation_pct
+2000,54.92
+2001,54.40
+2002,44.96
+2003,21.60
+2004,8.60
+2005,8.18
+2006,9.60
+2007,8.76
+2008,10.44
+2009,6.25
+2010,8.57
+2011,6.47
+2012,8.89
+2013,7.49
+2014,8.85
+2015,7.67
+2016,7.78
+2017,11.14
+2018,16.33
+2019,15.18
+2020,12.28
+2021,19.60
+2022,72.31
+2023,53.86
+2024,58.51
